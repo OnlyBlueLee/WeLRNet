@@ -1,6 +1,7 @@
-# WeLRNet
-The code will release upon publication.
+# WeLRNe
+Our code will release upon publication.
 # datasets
+This is the pseudo masks.
 Quark
 链接：https://pan.quark.cn/s/154879b769a8?pwd=9SdN
 提取码：9SdN
