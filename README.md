@@ -1,4 +1,4 @@
-# WeLRNe
+# WeLRNet
 Our code will release upon publication.
 # datasets
 This is the pseudo masks.
